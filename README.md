@@ -1,4 +1,4 @@
-# 🇨🇴 Colombia Coaching Schedule: Web Dev & App Dev Workshop
+# Web Dev & App Dev Workshop
 
 Each session is 45 minutes long
 
