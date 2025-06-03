@@ -19,16 +19,21 @@ Each session is 45 minutes long
 
 ---
 
-## 📅 Day 2: Layout and Styling – Flexbox, Grid & Responsiveness
+## 📅 Day 2: Web Design & Personal Branding – Make Your Own Profile Page
 
 ### Objectives:
-- Learn how to control website layout using CSS Flexbox and Grid
-- Make content mobile-friendly with responsive design techniques
+- Teach students how to create a **personal webpage** about themselves
+- Focus on web design, colors, fonts, and layout
+- Help students express their identity through creative coding
 
 ### Activities:
-- 🧱 Quick overview: What is a layout? Why do websites need structure?
-- 📐 Live demo: Build a responsive layout using Flexbox or CSS Grid
-- 📱 Practice: Students turn a messy layout into a clean one
+- 🎤 Quick warm-up: “If your website had a vibe, what would it be?” (Cool, bold, cozy, etc.)
+- 🖼 Show examples of simple, clean personal websites
+- 🛠 Project: Students create their own **"About Me"** page with:
+  - Name, photo, and short bio
+  - Favorite quote or fun facts
+  - Colors and fonts that reflect their style
+- 🎨 Teach color palettes, font pairing, and layout tips for good design
 
 ---
 
